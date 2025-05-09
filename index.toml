@@ -1,6 +1,282 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "15f2aa2b4f671e5f6690eedcb9b7ffd2c908a37429fe425fd76fa2ef4f8b2a98"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "992fddefa02ac12bb4f37f9b5d192cd2670b898de0576eb7fdddd38400fadd41"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "eda7e84eb4fea1058f8917bd68bac43bc63a6114534bc031a3a1f089cda7486b"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "a2decc0faeda0b9a0e5a0106ede03c6ccad538cb9325454523e1d14abc5a168a"
+
+[[files]]
+file = "config/aether-server.toml"
+hash = "578abca7702fcecdb39845a7043f6ec1c504f153f6d3b4af45daedb29df931de"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "432879e99cd2acb05c86479487b28bca59d00ed4b1451cefffddb5c96fc155b9"
+
+[[files]]
+file = "config/aether/sun_altar_whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/amendments-common.json"
+hash = "5f5864c8a970bafe2c254356b8db722ee7907d3197eaa953a56ac1c079fc2ac7"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "7719ad177198f748dc13c61d675a06eb15d8074bcd5cc2e34db8fe4048f38e85"
+
+[[files]]
+file = "config/balm-client.toml"
+hash = "61995c9f4e85716dd0a7b5dc53f2ac577b75fe53b4fae2e288f3c75dd9020c19"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "61995c9f4e85716dd0a7b5dc53f2ac577b75fe53b4fae2e288f3c75dd9020c19"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "4755f5b0e18c465902ccbe619135d9cf82f783cba0c99624f9374ec3cdc89f5d"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "55f7d96d30aec2f4b45436fe6e8788aa18840154072f81681d2dd797270b45c9"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "eb8c84c3df302a2e2948d1f6db19c0769247cc0e8bda1546af0639526637615a"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "5c7ae7dd2d7c200f9f875619b5b0228c87580ff40e63088b4d47786bffe1b0b5"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betternether/client.json"
+hash = "b080fb6d24b29316fbd4c6c50b3f7de076e52897b4fc5439034cbf6c0b22271f"
+
+[[files]]
+file = "config/betternether/default_game_rules.json"
+hash = "a39dd620a51e7d0d3d856c12f51450d37aefa055f6c2562883cc30778f230153"
+
+[[files]]
+file = "config/betternether/world.json"
+hash = "f4a4cc24c325a78925fa5588e06312c2295455406301f719ee741dd3b1152ac3"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "f8fc05972d46e3d0c40ab4f9d134c876e675ace9e18ec5ab07a7bcf8f5427b0a"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/charmofundying-server.toml"
+hash = "92efed89681da7bc178bf8075c06cca509619f46d99d3877df1d363b0c345210"
+
+[[files]]
+file = "config/chefsdelightconfig.properties"
+hash = "71d1c3db2b31f40229278243fa0e51baf7cf602678f18d1ff4adc5c02d1ccdf9"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/collective/entity_names.json"
+hash = "bddeff5a95a00aaed5c3d2a37bc73d81a1a69a31377f251330aca1265be6945a"
+
+[[files]]
+file = "config/comforts-common.toml"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "cb42c784223cc9ab3895619c2390b959c8562c9fc73518c13e31f9cf4f1d956c"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "4a9af67cdbda8f93b33e857168766f83c56af1a46c5bd19452f18ae0daf80372"
+
+[[files]]
+file = "config/deeperdarker.json5"
+hash = "fe410efba3e9734f0ae49672e87dbdac83415cbbd5de3485930ad53eef8b91fa"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
+
+[[files]]
+file = "config/easyanvils-common.toml"
+hash = "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "b9ba34b7c00f881094338545146952d496157d1ea7356907d0d2e2976928f4c7"
+
+[[files]]
+file = "config/easymagic-common.toml"
+hash = "1831109fee7afc163f381d19d57f45db6ad9a8574da583437f5a1e91beb85478"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "541bfde408b8ff3d842b91d7f55fda4685ed4c67c3fe345df3f1eedb72efe9ed"
+
+[[files]]
+file = "config/everycomp-common.json"
+hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
+
+[[files]]
+file = "config/everycomp-entries.json"
+hash = "2cf1df6fec6f85ab8d73613a7f6b90c1af45f44dd2c3c0b2926eb817e0c35504"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "a9c8836b353ec657eef378f459c5ac84c447a8f316b59b82a810e8432232832a"
+
+[[files]]
+file = "config/farmersdelight-common.json"
+hash = "bdd90884cfbde8fad7593b041685789364ac6e6636602550f836e3e03818c2b0"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/getittogetherdrops.json5"
+hash = "903e8c030b0d2a1040c83bf454dad0680c5cf37fc9d9f3072fc6cb2f6b3a6079"
+
+[[files]]
+file = "config/horseman-client.toml"
+hash = "bfb1f324ae1631d6c9dd44699315a02d9c67ee6b4b13977744913060f53f176b"
+
+[[files]]
+file = "config/horseman-server.toml"
+hash = "2b1d71f924b6aa85a87d9281367fe7c87db4216001c05e9c6a8ab30041007a80"
+
+[[files]]
+file = "config/iteminteractions-server.toml"
+hash = "bc5fad4a890fa9300b4ea355881c455f693e11ab14115653be94eef9bcb8a816"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "210f8924c97f99c36ded09fc7bad74248284230c18f31827b94485aeb9931043"
+
+[[files]]
+file = "config/jamlib/known_suspicious_jars.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/journeymap-server.json"
+hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+
+[[files]]
+file = "config/kleeslabs-common.toml"
+hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "dbbbaf1653ea24277ad44c214ce3d1fa1936c66f1730fb33e34e294fe8869ed4"
+
+[[files]]
+file = "config/lootr.json"
+hash = "1c0fbe0965bdfb1271b7be90e86bc4fbd9114bb768fc0a4995da0f3621531bfc"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "7f124e2e3549c79a7e8ec9fc5dd20b90549a16fa55d2d9b54bf69ab5f664c1d4"
+
+[[files]]
+file = "config/moonlight-common.json"
+hash = "d5b0086101de9016d436e8236e3d48c8ca95e3e87855ca80a1d56178bfba000d"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "66a324bf388470436c4fe5fddd54991f6758c9e60f4728c691654a3b4d97cd72"
+
+[[files]]
+file = "config/rightclickharvest.json5"
+hash = "6f91ba558e5f985d1cb84a385d08e05c04fc7908ff259eaf904a0d8330b8e985"
+
+[[files]]
+file = "config/smarterfarmers-common.json"
+hash = "1784d27ff24f101ce57eb05ffa18ffab773183550052187d9c3bd50f38100f90"
+
+[[files]]
+file = "config/stoneworks-common.toml"
+hash = "97377a93335391062c33a5bf2a5ff29ff0f7e789c32d507e4383d154aac17347"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "3e373446d9c34fcbfa9b57218d65edddac96807de64e55d5f71c835b8f37adde"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "0db7dc6d9ea18c316af2097c4a69264cd41aaa7cc1998b59a9f87fae8639a3e2"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "3349153e9cb33227c5fd3b597fcea5ccbd480a6e5396b19004cbea07365ec433"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "d7398e34b04137bdc20d16a6cc1d1c5e8b6a4f70bad01ec0fc4b32f9ae98e53c"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "41e894419aa2571541f5c513be57e1d3572fd41bb85b3fd0e5e261a8767b4c2b"
+
+[[files]]
+file = "config/wover/main.json"
+hash = "50e9b9c108e2e40a33fa61248cedb32737a58b5bb828a1bee14599baed859507"
+
+[[files]]
+file = "config/yigd.json"
+hash = "3bd0d2758d1bd66b2303eb5f5a4be6256a001b55c68787803e26f89197416df8"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "bea7f27b65c3c952c789b7e663d5842575193acb528b7b2eaec4a9461acb72f8"
 metafile = true
