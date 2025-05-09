@@ -1,0 +1,70 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config (or just use Forge)",
+  "types": {
+    "cake": {},
+    "wood_type": {
+      "deeperdarker.bloom": true,
+      "betterend.end_lotus": true,
+      "betterend.jellyshroom": true,
+      "betterend.lucernia": true,
+      "betterend.mossy_glowshroom": true,
+      "betterend.pythadendron": true,
+      "betterend.dragon_tree": true,
+      "betterend.helix_tree": true,
+      "betterend.lacugrove": true,
+      "betterend.tenanea": true,
+      "betterend.umbrella_tree": true,
+      "betternether.anchor_tree": true,
+      "betternether.mushroom_fir": true,
+      "betternether.nether_sakura": true,
+      "betternether.rubeus": true,
+      "betternether.stalagnate": true,
+      "betternether.wart": true,
+      "betternether.willow": true,
+      "betternether.nether_reed": true,
+      "betternether.nether_mushroom": true,
+      "aether.skyroot": true,
+      "deeperdarker.echo": true
+    },
+    "leaves_type": {
+      "aether.golden_oak": true,
+      "aether.holiday": true,
+      "aether.decorated_holiday": true,
+      "aether.crystal": true,
+      "aether.crystal_fruit": true,
+      "betternether.willow": true,
+      "betternether.rubeus": true,
+      "betternether.anchor_tree": true,
+      "betternether.nether_sakura": true,
+      "aether.skyroot": true,
+      "betterend.pythadendron": true,
+      "betterend.lacugrove": true,
+      "betterend.dragon_tree": true,
+      "betterend.tenanea": true,
+      "betterend.lucernia": true,
+      "deeperdarker.echo": true
+    }
+  },
+  "entries": {
+    "cake": {},
+    "wood_type": {
+      "handcrafted.counter": true,
+      "handcrafted.corner_trim": true,
+      "handcrafted.fancy_bed": true,
+      "handcrafted.desk": true,
+      "handcrafted.couch": true,
+      "handcrafted.shelf": true,
+      "handcrafted.nightstand": true,
+      "farmersdelight.cabinet": true,
+      "handcrafted.table": true,
+      "handcrafted.chair": true,
+      "handcrafted.drawer": true,
+      "handcrafted.cupboard": true,
+      "handcrafted.pillar_trim": true,
+      "handcrafted.dining_bench": true,
+      "handcrafted.side_table": true,
+      "handcrafted.bench": true
+    },
+    "leaves_type": {}
+  }
+}
