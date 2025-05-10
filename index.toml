@@ -277,6 +277,11 @@ file = "config/yigd.json"
 hash = "3bd0d2758d1bd66b2303eb5f5a4be6256a001b55c68787803e26f89197416df8"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "f403213efeb5a017a4bebf63aca251fd606a7a8bdc23a8534a5a073ce1f9c2a1"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "bea7f27b65c3c952c789b7e663d5842575193acb528b7b2eaec4a9461acb72f8"
 metafile = true
@@ -284,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/aether.pw.toml"
 hash = "e873a3b80b8aa79111299987fcd82eedd880427ac0e8c7f7cc4e0429f8b99550"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
 metafile = true
 
 [[files]]
@@ -304,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "7da673924f2214248f8d22f12d1c010697fba12ba3409a5ae9bf543f166a199b"
 metafile = true
 
 [[files]]
@@ -334,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
 metafile = true
 
 [[files]]
@@ -372,8 +392,18 @@ hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "992fd54a7f8c0b61a0dc59458cb09b965eb5f3d7cf06a256a81970424a70332a"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
@@ -423,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d127299ac94c4f4bc105a911ab4057cc5aa6a3eeb5ad1628fdadc656bc989e56"
+hash = "4c13890573a2b182ebda63de41943b63ba369fcae1f7e15f8735825bc37f6a19"
 metafile = true
 
 [[files]]
@@ -487,6 +517,11 @@ hash = "fe57370919fcb2939a2601ec8c471226c3634f1f79bc091053a77ff4899997e5"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
@@ -499,6 +534,16 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "8849846cf76b0bda5450c74579eb26935ab44f941d41728e0374253de82633ba"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "4797458bb275c5e9c3657e353ae598ab38e07e3386092a0c13f27448bef3ddd3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "29daee78835ec66ff5e56bc99de53899417df7ce5d0f76c40e20a98179a4fccc"
 metafile = true
 
 [[files]]
@@ -517,13 +562,28 @@ hash = "5f5ba0fde87eb80a3ba78d0f3c92efda0753d9108ea4f47df99b5c628bb88f38"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b220657b999e9c1243556d05e170819e71e8329014adb50e8eaab9c1132fa815"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6c24f9f4ebcda8b97f77993dda5eebb0baa43e244c870c895a5850987e3ce2d9"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "18753527f393c51d6296b4fd4a3b3a8bfa698b592bc47898551968d6f682e395"
 metafile = true
 
 [[files]]
@@ -572,6 +632,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "3226b1537f8ed0868687b4b537883fbe8cd5311d171e5456a7f1ebb6394e0450"
 metafile = true
@@ -614,6 +679,11 @@ metafile = true
 [[files]]
 file = "mods/worldweaver.pw.toml"
 hash = "d3dccbd68486d3b35054b5a716051fa01a916d808a2aa78a0ada72b31f08c428"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
 
 [[files]]
